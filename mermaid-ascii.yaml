@@ -1,0 +1,3 @@
+from: gfm
+filters:
+  - mermaid-ascii.lua
